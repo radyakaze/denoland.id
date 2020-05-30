@@ -23,6 +23,10 @@
     {
       "source": "/code-of-conduct.md",
       "destination": "https://raw.githubusercontent.com/denoland-id/information/master/CODE_OF_CONDUCT.md"
+    },
+    {
+      "source": "/x/(.*)",
+      "destination": "/api/x/registry?url=$1"
     }
   ],
   "public": true

@@ -1,0 +1,14 @@
+{
+  "denovel": {
+    "type": "github",
+    "owner": "fauzan121002",
+    "repo": "denovel",
+    "desc": "A Deno Framework for Web Artisan - Inspired by Laravel."
+  },
+  "fastro": {
+    "type": "github",
+    "owner": "fastrojs",
+    "repo": "fastro-server",
+    "desc": "deno fast web framework"
+  }
+}
